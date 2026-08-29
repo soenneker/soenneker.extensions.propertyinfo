@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.extensions.propertyinfo/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.extensions.propertyinfo/actions/workflows/codeql.yml)
 
 # ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Soenneker.Extensions.PropertyInfo
-Reserved package for reflection helpers targeting `PropertyInfo`.
+Extension methods for inspecting and transforming reflection `PropertyInfo` metadata.
 
 ## Installation
 
