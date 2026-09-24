@@ -1,4 +1,3 @@
-using AwesomeAssertions;
 using Soenneker.Extensions.PropertyInfo.Tests.Dtos;
 
 namespace Soenneker.Extensions.PropertyInfo.Tests;
